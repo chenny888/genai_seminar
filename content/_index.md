@@ -12,7 +12,7 @@ sections:
       text: |-
         *An online workshop series*
 
-        This workshop brings together researchers working on generative AI, machine learning, and data science in operations research and operations management. Our aim is to share emerging ideas, discuss new methods, and connect them with meaningful questions about operations and decision-making.
+        This workshop brings together researchers working on the intersection of generative AI, machine learning, and data science in operations research and operations management. Our aim is to share emerging ideas, discuss new methods, and connect them with operations and decision-making.
     design:
       columns: '1'
       # Soft gradient in the theme colours
