@@ -1,4 +1,4 @@
-module github.com/chenny888/genai_workshop
+module github.com/chenny888/genai_seminar
 
 go 1.19
 

@@ -2,8 +2,8 @@
 
 A simple two-page **Hugo** site for an online workshop series, using the Hugo Academic template ([HugoBlox Kit](https://github.com/HugoBlox/kit)) with its **Minimal** theme. The home page has the vision, logistics, upcoming talks, and organizers; `/past-talks/` is the archive.
 
-Intended repository: `chenny888/genai_workshop`  
-Website URL after publication: **https://chenny888.github.io/genai_workshop/**
+Intended repository: `chenny888/genai_seminar`  
+Website URL after publication: **https://chenny888.github.io/genai_seminar/**
 
 ## Preview and build
 
@@ -49,4 +49,4 @@ gh auth login --hostname github.com --git-protocol https --web
 bash scripts/publish.sh
 ```
 
-It builds the site, commits it, creates the public `chenny888/genai_workshop` repository, pushes `main`, enables GitHub Pages, and starts the deployment. After that, every push to `main` rebuilds and deploys the site via `.github/workflows/deploy.yml`.
+It builds the site, commits it, creates the public `chenny888/genai_seminar` repository, pushes `main`, enables GitHub Pages, and starts the deployment. After that, every push to `main` rebuilds and deploys the site via `.github/workflows/deploy.yml`.

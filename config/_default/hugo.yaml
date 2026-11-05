@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'AI & Data Science for Operations'
 # Website URL
-baseURL: 'https://chenny888.github.io/genai_workshop/'
+baseURL: 'https://chenny888.github.io/genai_seminar/'
 
 ############################
 ## LANGUAGE

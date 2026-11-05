@@ -36,16 +36,16 @@ git add .gitignore .npmrc .github README.md config content layouts go.mod go.sum
 if ! git diff --cached --quiet; then
   git commit -m "Create Hugo workshop website"
 fi
-gh repo create "$github_owner/genai_workshop" \
+gh repo create "$github_owner/genai_seminar" \
   --public \
   --description "AI & Data Science for Operations — online workshop series" \
   --source=. --remote=origin --push
 
-gh api --method POST "repos/$github_owner/genai_workshop/pages" \
+gh api --method POST "repos/$github_owner/genai_seminar/pages" \
   -f build_type=workflow --jq .html_url
 
 # Start a build after Pages is enabled, even if the initial push ran before setup.
-gh workflow run deploy.yml --repo "$github_owner/genai_workshop" --ref main
+gh workflow run deploy.yml --repo "$github_owner/genai_seminar" --ref main
 
-echo "Source pushed. Hugo is building at https://github.com/$github_owner/genai_workshop/actions"
-echo "Website URL after deployment: https://$github_owner.github.io/genai_workshop/"
+echo "Source pushed. Hugo is building at https://github.com/$github_owner/genai_seminar/actions"
+echo "Website URL after deployment: https://$github_owner.github.io/genai_seminar/"
