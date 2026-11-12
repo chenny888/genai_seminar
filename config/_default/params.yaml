@@ -19,7 +19,7 @@ hugoblox:
     # Schema.org type for structured data
     type: organization # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "An online workshop series"
+    tagline: "An online seminar series"
     # Site meta description for search engines and social sharing
     description: "Exploring generative AI, machine learning, and data science in
       operations research and operations management."

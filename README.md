@@ -1,6 +1,6 @@
 # AI & Data Science for Operations
 
-A simple two-page **Hugo** site for an online workshop series, using the Hugo Academic template ([HugoBlox Kit](https://github.com/HugoBlox/kit)) with its **Minimal** theme. The home page has the vision, logistics, upcoming talks, and organizers; `/past-talks/` is the archive.
+A simple two-page **Hugo** site for an online seminar series, using the Hugo Academic template ([HugoBlox Kit](https://github.com/HugoBlox/kit)) with its **Minimal** theme. The home page has the vision, logistics, upcoming talks, and organizers; `/past-talks/` is the archive.
 
 Intended repository: `chenny888/genai_seminar`  
 Website URL after publication: **https://chenny888.github.io/genai_seminar/**

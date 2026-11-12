@@ -34,11 +34,11 @@ fi
 
 git add .gitignore .npmrc .github README.md config content layouts go.mod go.sum hugoblox.yaml package.json pnpm-lock.yaml scripts
 if ! git diff --cached --quiet; then
-  git commit -m "Create Hugo workshop website"
+  git commit -m "Create Hugo seminar website"
 fi
 gh repo create "$github_owner/genai_seminar" \
   --public \
-  --description "AI & Data Science for Operations — online workshop series" \
+  --description "AI & Data Science for Operations — online seminar series" \
   --source=. --remote=origin --push
 
 gh api --method POST "repos/$github_owner/genai_seminar/pages" \

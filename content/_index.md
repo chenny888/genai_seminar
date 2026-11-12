@@ -10,9 +10,9 @@ sections:
     content:
       title: AI & Data Science for Operations
       text: |-
-        *An online workshop series*
+        *An online seminar series*
 
-        This workshop brings together researchers working on the intersection of generative AI, machine learning, and data science in operations research and operations management. Our aim is to share emerging ideas, discuss new methods, and connect them with operations and decision-making.
+        This seminar series brings together researchers working on the intersection of generative AI, machine learning, and data science in operations research and operations management. Our aim is to share emerging ideas, discuss new methods, and connect them with operations and decision-making.
     design:
       columns: '1'
       # Soft gradient in the theme colours
@@ -46,6 +46,8 @@ sections:
 
         ---
 
+        We welcome self-nominations: if you think your talk fits the theme of the series, email Ningyuan Chen at [ningyuan.chen@utoronto.ca](mailto:ningyuan.chen@utoronto.ca).
+
         [See past talks →](past-talks/)
     design:
       columns: '1'
@@ -58,9 +60,9 @@ sections:
     content:
       title: Organizers
       text: |-
-        - J. George Shanthikumar — Purdue University
-        - Cong Shi — University of Miami
-        - Ningyuan Chen — University of Toronto
+        - [J. George Shanthikumar](https://web.ics.purdue.edu/~jshanthi/) — Purdue University
+        - [Cong Shi](https://congshi-research.github.io/) — University of Miami
+        - [Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/) — University of Toronto
     design:
       columns: '1'
 ---
