@@ -27,7 +27,9 @@ sections:
       text: |-
         **When:** To be announced. Dates and times will be posted with each talk.
 
-        **Where:** Online. Meeting link to be announced.
+        **Where:** Online on Zoom: [utoronto.zoom.us/j/86789531596](https://utoronto.zoom.us/j/86789531596)
+
+        **Calendar:** [Add the seminar calendar to Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmJmY2Q4NWEzMmVjZTYyOTgwZGM0N2M5YWVmZGFmOTE2M2UyMDBhZTE1MTEwMmVmNzhjMjBiMDJmZDgxNjY0MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
     design:
       columns: '1'
   - block: markdown
