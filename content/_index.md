@@ -48,7 +48,7 @@ sections:
 
         ---
 
-        We welcome self-nominations: if you think your talk fits the theme of the series, email Ningyuan Chen at [ningyuan.chen@utoronto.ca](mailto:ningyuan.chen@utoronto.ca).
+        We welcome self-nominations: if you think your talk fits the theme of the series, please contact the [organizers](#organizers).
 
         [See past talks →](past-talks/)
     design:
