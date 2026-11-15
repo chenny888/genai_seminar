@@ -29,7 +29,7 @@ sections:
 
         **Where:** Online on Zoom: [utoronto.zoom.us/j/86789531596](https://utoronto.zoom.us/j/86789531596)
 
-        **Calendar:** [Add the seminar calendar to Google Calendar](https://calendar.google.com/calendar/u/0?cid=MmJmY2Q4NWEzMmVjZTYyOTgwZGM0N2M5YWVmZGFmOTE2M2UyMDBhZTE1MTEwMmVmNzhjMjBiMDJmZDgxNjY0MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+        **Calendar:** [Add the seminar calendar](https://calendar.google.com/calendar/u/0?cid=MmJmY2Q4NWEzMmVjZTYyOTgwZGM0N2M5YWVmZGFmOTE2M2UyMDBhZTE1MTEwMmVmNzhjMjBiMDJmZDgxNjY0MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
         **Mailing list:** [Subscribe on Google Groups](https://groups.google.com/g/ai-data-operations) or email [ai-data-operations+subscribe@googlegroups.com](mailto:ai-data-operations+subscribe@googlegroups.com) to receive talk announcements.
     design:
