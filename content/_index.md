@@ -25,7 +25,7 @@ sections:
     content:
       title: Time and link
       text: |-
-        **When:** Thursdays, 11:00 a.m.–12:00 p.m. Eastern Time (ET), on the dates listed below.
+        **When:** Biweekly on average, on Thursdays from 11:00 a.m. to 12:00 p.m. Eastern Time (ET). See the confirmed dates below.
 
         **Where:** Online on Zoom: [utoronto.zoom.us/j/86789531596](https://utoronto.zoom.us/j/86789531596)
 
