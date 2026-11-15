@@ -25,7 +25,7 @@ sections:
     content:
       title: Time and link
       text: |-
-        **When:** To be announced. Dates and times will be posted with each talk.
+        **When:** Thursdays, 11:00 a.m.–12:00 p.m. Eastern Time (ET), on the dates listed below.
 
         **Where:** Online on Zoom: [utoronto.zoom.us/j/86789531596](https://utoronto.zoom.us/j/86789531596)
 
@@ -39,12 +39,17 @@ sections:
       # One entry per talk: title, speaker and date, abstract, and an optional paper link.
       # After the talk, move its entry to content/past-talks.md.
       text: |-
-        ### Talk title (placeholder)
-        **Speaker Name**, University · Date and time to be announced
+        ### TBD
+        **Jackie Baek**, New York University · December 10, 2026, 11:00 a.m.–12:00 p.m. ET
 
-        A one-paragraph abstract of the talk will appear here, followed by a link to the related paper if one is available.
+        **Abstract:** TBD
 
-        [Paper ↗](#)
+        ---
+
+        ### TBD
+        **Stefanus Jasin**, University of Michigan · January 7, 2027, 11:00 a.m.–12:00 p.m. ET
+
+        **Abstract:** TBD
 
         ---
 
