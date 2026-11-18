@@ -49,6 +49,13 @@ sections:
         ---
 
         ### TBD
+        **Ali Aouad**, MIT Sloan School of Management · December 17, 2026, 11:00 a.m.–12:00 p.m. ET
+
+        **Abstract:** TBD
+
+        ---
+
+        ### TBD
         **Stefanus Jasin**, University of Michigan · January 7, 2027, 11:00 a.m.–12:00 p.m. ET
 
         **Abstract:** TBD
